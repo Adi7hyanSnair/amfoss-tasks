@@ -94,13 +94,13 @@ It really felt like The competition In the Herry Potter Fiction.
 It was very Fun doing The Task 
 THANK YOU.
 
-#References
-*Google
-*YouTube
-*ChatGPT
+# References
+Google, 
+YouTube, 
+ChatGPT, 
 etc.....
 
 
-#THANK YOU
+# THANK YOU
 
 
