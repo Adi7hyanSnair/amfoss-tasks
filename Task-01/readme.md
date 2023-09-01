@@ -24,6 +24,6 @@ It was given that 'y' is the number you get by differentiating (x²-7x) with res
 Then I figured out 'y' i.e, I got y=5.
 After running all the Linux Command accordingly I got the spell Impedimenta.
 Then I run the python file Impedimenta.py file from spellbook using Linux Command.
+I am also Attaching the Linux Termina Screen Shot.
 
-![Uploading WhatsApp Image 2023-09-01 at 10.30.44.jpg…]()
-
+![WhatsApp Image 2023-09-01 at 10 30 44](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/56232836-5104-4301-8942-daac567f366b)
