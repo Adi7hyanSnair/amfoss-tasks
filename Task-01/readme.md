@@ -24,9 +24,25 @@ It was given that 'y' is the number you get by differentiating (x²-7x) with res
 Then I figured out 'y' i.e, I got y=5.
 After running all the Linux Command accordingly I got the spell Impedimenta.
 Then I run the python file Impedimenta.py file from spellbook using Linux Command.
-I am also Attaching the Linux Termina Screen Shot.
+I am also Attaching the Linux Terminal Screen Shot.
 
 ![WhatsApp Image 2023-09-01 at 10 30 44](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/56232836-5104-4301-8942-daac567f366b)
 
 
 # 3. Second Challenge
+I read the instructions given in the amfoss Praveshan PDF and figured out the '0x' and '0y' in this task.
+In this task 'x' is the unit place of the atomic number of element which 
+is first used to make semicundoctors. And 'y' is the 10s place of the atomic
+number of the element Which is first used for making the semicunductor.
+I found which element was first used for making the semicunductor.
+It was germanium which has atomic number 32. I searched it in google to be honest.
+So i figured out 'x' is 2 and 'y' is 3.
+Hence after done after the Linux Commands I got the spell Stupefy.
+Then I ran the Python file Stupefy.py which I got from the spellbook.
+After running The python file i got the secret code.
+I am also attaching the Linux Terminal Screen Shot.
+
+![WhatsApp Image 2023-09-01 at 10 30 59](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/2415484d-8978-4077-a658-b9c9c3b1bd52)
+
+
+# 4. Third Challenge
