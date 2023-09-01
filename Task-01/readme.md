@@ -46,3 +46,16 @@ I am also attaching the Linux Terminal Screen Shot.
 
 
 # 4. Third Challenge
+In this task First I found the Branch which has been taught by Prof.Lupin Hogwarts.
+When I found I recall The branch from the movie , defenseAgainsTheDarkArts.
+Then I found Out the Shape Shifting Creature from the Riddle , it was Boggart.
+I found that using ChatGPT. After that I figured out the spell used against Boggart was 
+Riddikulus. To get the Riddikulus Python File I need to Checkout the github branch Using 
+git checkout linux Terminal Command.
+After that I ran the Python file Riddikulus.py and I got the secret code.
+I am Attaching the Linux Terminal Screen Shot.
+
+![WhatsApp Image 2023-09-01 at 16 01 31](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/fedd65a5-beb5-4de3-a416-ebff97d9e388)
+
+
+# 5. Fourth Challenge
