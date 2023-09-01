@@ -27,3 +27,6 @@ Then I run the python file Impedimenta.py file from spellbook using Linux Comman
 I am also Attaching the Linux Termina Screen Shot.
 
 ![WhatsApp Image 2023-09-01 at 10 30 44](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/56232836-5104-4301-8942-daac567f366b)
+
+
+# 3. Second Challenge
