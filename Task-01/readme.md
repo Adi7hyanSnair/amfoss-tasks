@@ -59,3 +59,48 @@ I am Attaching the Linux Terminal Screen Shot.
 
 
 # 5. Fourth Challenge
+For this Challenge I went through the amfoss praveshan PDF. And I figured out that the clue for this challenge
+is in the commit logs of the repository. The spell clue was where x is the number of horcruxes made by Voldemort 
+and y is the number that has same alphabets as the number. 
+From this clue I figured Out 'x' = 7. I got searched it from Google.
+And I figured 'y' = 4 using the clue i.e , no: of alphabets in Seven is
+Four (S,e,v,n).Using the needed Linux Command I got the Spell that is Priori Incantatem.
+Then I got the python file after checkout the graveyard GitHub Branch.
+Then after running the python file I got the Fourth code.
+I am attaching the Linux Terminal Screen Shot.
+
+![WhatsApp Image 2023-09-01 at 16 01 53](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/1f607afe-fbab-49d0-9708-47322e0ebfb5)
+
+
+# 6. The End
+After Fiding All The four code from the Challenges above . I went through the Aamfoss Praveshan PDF again and 
+I started to find the final Spell.
+I used The Linux Terminal Command echo <string> | base64 --decode for decoding the four the code which 
+i got from the above challenges.
+After decoding I got A http://GitHub.com  link which further I cloned to get the Final Spell Txt file.
+After opening the github file I opened the file using ls Linux Terminal Command and I got A python 
+file from There.
+Then I ran that Python File to get The final Output.
+And I completed the first Task.
+I am Attaching The Linux Terminal Command Screen Shots.
+
+![WhatsApp Image 2023-09-01 at 16 02 41](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/e74378dc-4799-4159-bcfa-7fcf6da4aa2d)
+
+
+# Conclusion
+It was a great journey Finding the spells and doing the linux Terminal Command.
+I enjoyed the Terminal Wizard Competition.
+It really felt like The competition In the Herry Potter Fiction.
+It was very Fun doing The Task 
+THANK YOU.
+
+#References
+*Google
+*YouTube
+*ChatGPT
+etc.....
+
+
+#THANK YOU
+
+
