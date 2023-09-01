@@ -1,6 +1,6 @@
 # TERMINAL WIZARD
 
-Before i started doing the tasks i went through the instructions given in tyhe amfoss Praveshan PDF,
+Before I started doing the tasks i went through the instructions given in tyhe amfoss Praveshan PDF,
 I watched several YouTube channels to study the functioning of the linux Commands
 and started doing the tasks.
 The commands Include - cd, ls, git clone, git branches -a, cd .., ....etc.
@@ -14,4 +14,16 @@ I will surely Figure it out when I reach the campus after the onam holidays.
 After Entered the maze by cloning the GitHub provided I started doing The challenges
 
 # 2. First Challenge
-I started the challenge by 
+I read the instructions given in the amfoss Preveshan pdf and figures about '0x' and '0y'.
+I started the challenge by opening the cloned github TerminalWizard using the linux command
+cd TerminalWizard the further opened by ls command.
+Then i figured out what 'x' and 'y' is.
+It was given that 'x' is the first perfect number therefore i figured that x=6 i.e , 6=1+2+3
+hence 6 is the first perfect number.
+It was given that 'y' is the number you get by differentiating (x²-7x) with respect to 'x'.
+Then I figured out 'y' i.e, I got y=5.
+After running all the Linux Command accordingly I got the spell Impedimenta.
+Then I run the python file Impedimenta.py file from spellbook using Linux Command.
+
+![Uploading WhatsApp Image 2023-09-01 at 10.30.44.jpg…]()
+
