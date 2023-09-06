@@ -11,3 +11,5 @@ If n is greater than or equal to 2, we iterate through numbers from 2 to n and u
 determine if each number is prime. If it is, we print the prime number to the terminal.
 
 The program then prints the prime numbers up to n to the terminal.
+
+![WhatsApp Image 2023-09-06 at 19 56 49](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/ade0b46e-3b88-4caf-ad57-b7c508bd31c0)
