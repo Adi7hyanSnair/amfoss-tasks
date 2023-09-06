@@ -11,3 +11,8 @@ It checks if n is less than 2 or if it's not a valid integer, and handles these 
 
 Running the program: To run this JavaScript program, you need to execute it in a Node.js environment. Save the code to a .js file and run it using the node command. 
 For example, if you save the program as find_primes.js, you can run it by typing node find_primes.js in your terminal.
+
+I ones an online compiler Replit 
+I will also add the Screen Shot
+
+![WhatsApp Image 2023-09-06 at 19 55 45](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/21b32e8b-1db2-4d44-a9bb-cbe6493fa791)
