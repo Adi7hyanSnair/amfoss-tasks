@@ -15,3 +15,8 @@ To run this Go program, follow these steps:
 Save the code to a .go file (e.g., prime_numbers.go).
 
 Open a terminal and navigate to the directory where the Go file is located.
+
+I ones an online compiler Replit 
+I will also add the Screen Shot
+
+![WhatsApp Image 2023-09-06 at 19 57 49](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/aec1aa8c-305c-40f8-a11c-d2da355d3dfc)
