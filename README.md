@@ -31,7 +31,7 @@ I like to socialize with people.
 I will be an excellent member.
 I am Loyal and also I am sincere.
 
-# DO YOU HAE ANY FEEDBACK FOR THE SELECTION PROCESS
+# DO YOU HAVE ANY FEEDBACK FOR THE SELECTION PROCESS
 One of the reason for joining Amrita is to join amfoss club. So i researched abot the club.
 The task give have different difficult levels , which is expected from 
 a club like amfoss. I am kind of enjoying the process.
