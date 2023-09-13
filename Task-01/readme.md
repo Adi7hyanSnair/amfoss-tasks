@@ -87,9 +87,14 @@ I am Attaching The Linux Terminal Command Screen Shots.
 ![WhatsApp Image 2023-09-01 at 16 02 41](https://github.com/Adi7hyanSnair/amfoss-tasks/assets/143208653/e74378dc-4799-4159-bcfa-7fcf6da4aa2d)
 
 
+final Spell [finalspell.txt](https://github.com/Adi7hyanSnair/amfoss-tasks/files/12600892/finalspell.txt)aHR0cHM6Ly9naXRodWIuY29tL1RoZUh1bnRzbWFuNC9UaGVGaW5hbFNwZWxs
+
+
 # Conclusion
 It was a great journey Finding the spells and doing the linux Terminal Command.
 I enjoyed the Terminal Wizard Competition.
+
+
 It really felt like The competition In the Herry Potter Fiction.
 It was very Fun doing The Task 
 THANK YOU.
