@@ -2,4 +2,4 @@
 
 Website link : https://adi7hyansnair.github.io/
 blog repository link : https://github.com/Adi7hyanSnair/blog.git
-github repo : 
+github repo : https://github.com/Adi7hyanSnair/Adi7hyanSnair.github.io.git
